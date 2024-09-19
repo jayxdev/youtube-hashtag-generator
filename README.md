@@ -36,11 +36,11 @@ To contribute to the development of this extension:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/toutube_hashtag_generator.git
+   git clone https://github.com/yourusername/youtube-hashtag-generator.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd youtube_hashtag_generator
+   cd youtube-hashtag-generator
    ```
 3. Make your changes and test locally.
 4. Submit a pull request with a description of your changes.
